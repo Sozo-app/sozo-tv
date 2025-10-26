@@ -33,6 +33,14 @@ Stay updated with the newest versions, announcements, and fixes by following our
 <br>
 <br>
 
+<img width="1576" height="958" alt="image" src="https://github.com/user-attachments/assets/561b8e29-cf0e-431c-932b-6818fac7b592" />
+<br>
+<br>
+
+<img width="1694" height="1086" alt="image" src="https://github.com/user-attachments/assets/3a7eb659-f5eb-4e7d-98c4-babfd34eb1fe" />
+<br>
+<br>
+
 <img width="2880" height="377" alt="image" src="https://github.com/user-attachments/assets/c531f8c9-9806-4d69-8d0b-a57c8cc7e1b8" />
 <br>
 <br>
