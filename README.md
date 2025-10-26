@@ -1,5 +1,6 @@
+
 # Sozo Tv  
-<img width="2560" height="1024" alt="image" src="https://github.com/user-attachments/assets/638382a5-fb16-4528-aa61-706b68ecf7bb" />
+<img width="2542" height="1154" alt="image" src="https://github.com/user-attachments/assets/57f0e94b-fcde-4394-9f32-0014e5e60528" />
 <br> </br>
 <p align="center">
    <a href="https://discord.gg/n22URhYvMR"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
